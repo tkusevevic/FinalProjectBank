@@ -20,7 +20,7 @@ public class Banka {
      */
     public static void main(String[] args) {
         
-       
+        
            Ucitavanje ucitavanje = new Ucitavanje();
           
        new GlavniIzbornik().setVisible(true);

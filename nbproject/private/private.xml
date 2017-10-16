@@ -3,15 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/model/RadiNa.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/hibernate.cfg.xml</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/model/RadnoMjesto.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/view/FormaRadnik.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/view/FormaTransakcije.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/view/GlavniIzbornik.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/pomocno/ExcellKlasa.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/pomocno/HibernateUtil.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka/src/kusevic/ljetnizadatak/view/FormaRadnaMjesta.java</file>
+            <file>file:/Users/tkusevic/Documents/Banka-master/src/kusevic/ljetnizadatak/controller/Obrada.java</file>
+            <file>file:/Users/tkusevic/Documents/Banka-master/src/kusevic/ljetnizadatak/view/FormaTransakcije.java</file>
+            <file>file:/Users/tkusevic/Documents/Banka-master/src/kusevic/ljetnizadatak/view/FormaRadnaMjesta.java</file>
         </group>
     </open-files>
 </project-private>
