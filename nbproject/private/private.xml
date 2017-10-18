@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/tkusevic/Documents/Banka-master/src/kusevic/ljetnizadatak/controller/Obrada.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka-master/src/kusevic/ljetnizadatak/view/FormaTransakcije.java</file>
-            <file>file:/Users/tkusevic/Documents/Banka-master/src/kusevic/ljetnizadatak/view/FormaRadnaMjesta.java</file>
+            <file>file:/Users/tkusevic/Documents/banka/src/kusevic/ljetnizadatak/view/FormaKorisnik.java</file>
+            <file>file:/Users/tkusevic/Documents/banka/src/kusevic/ljetnizadatak/pomocno/UpisIspisDatoteka.java</file>
+            <file>file:/Users/tkusevic/Documents/banka/src/kusevic/ljetnizadatak/view/FormaRadnaMjesta.java</file>
+            <file>file:/Users/tkusevic/Documents/banka/src/kusevic/ljetnizadatak/view/FormaRadnik.java</file>
         </group>
     </open-files>
 </project-private>

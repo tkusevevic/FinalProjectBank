@@ -332,6 +332,7 @@ public class FormaKorisnik extends Forma<Korisnik> implements EnablingButtons {
         txtRacun.setFont(new java.awt.Font("Arial Unicode MS", 0, 24)); // NOI18N
         txtRacun.setForeground(new java.awt.Color(204, 204, 204));
         txtRacun.setBorder(null);
+        txtRacun.setEnabled(false);
 
         txtOIB.setBackground(new java.awt.Color(55, 56, 76));
         txtOIB.setFont(new java.awt.Font("Arial Unicode MS", 0, 24)); // NOI18N
@@ -528,7 +529,7 @@ public class FormaKorisnik extends Forma<Korisnik> implements EnablingButtons {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
-                    .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, 524, Short.MAX_VALUE)
+                    .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, 530, Short.MAX_VALUE)
                     .addComponent(jPanel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addGap(0, 0, Short.MAX_VALUE))
         );
@@ -582,8 +583,8 @@ public class FormaKorisnik extends Forma<Korisnik> implements EnablingButtons {
             }
         }
 
-        provjeraIme = Provjera.onlyLettersSpaces(txtIme.getText());
-        provjeraPrezime = Provjera.onlyLettersSpaces(txtPrezime.getText());
+        provjeraIme =  Provjera.provjeriJelText(txtIme.getText());
+        provjeraPrezime = Provjera.provjeriJelText(txtPrezime.getText());
         provjeraOIB = (txtOIB.getText().length() != 11);
         provjeraRacun = (txtRacun.getText().length() != 11);
 

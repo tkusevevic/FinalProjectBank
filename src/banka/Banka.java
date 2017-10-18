@@ -5,6 +5,7 @@
  */
 package banka;
 
+import java.io.IOException;
 import kusevic.ljetnizadatak.pomocno.HibernateUtil;
 import kusevic.ljetnizadatak.view.GlavniIzbornik;
 import kusevic.ljetnizadatak.view.Ucitavanje;
@@ -17,9 +18,9 @@ public class Banka {
 
     /**
      * @param args the command line arguments
+     * @throws java.io.IOException
      */
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) throws IOException {
         
            Ucitavanje ucitavanje = new Ucitavanje();
           
